@@ -2,17 +2,27 @@
 <h2> You may need it. </h2>
 <p>
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/saad-alagele-645027267/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<a href="https://www.linkedin.com/in/saad-alagele-645027267/" >
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25 alt="LinkedIn"></a>
 
 <!-- Instagram -->
-<a href="[https://www.instagram.com/YOUR_USERNAME_HERE](https://www.instagram.com/saad.r_alagele)" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<a href="https://www.instagram.com/saad.r_alagele" >
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25 alt="Instagram"></a>
 
 <!-- X (Twitter سابقاً) -->
-<a href="https://x.com/Saad_R_Alagele" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
-</a>
+<a href="https://x.com/Saad_R_Alagele">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height=25 alt="X (Twitter)"></a>
+</p>
+
+<h2> Some of my projects </h2>
+<p> 
+
+<ul>
+
+<li><a href="https://github.com/saad-alagele/Modern-informational-website">Modern-informational-website</li>
+<li></li>
+<li></li>
+
+</ul>
+
 </p>
